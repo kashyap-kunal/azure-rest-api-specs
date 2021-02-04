@@ -44,6 +44,12 @@
             ]
         },
         {
+            "filename": "**/specification/databox/resource-manager/Microsoft.DataBox/stable/2020-11-01/databox.json",
+            "words": [
+                "Tera"
+            ]
+        },
+        {
             "filename": "**/specification/servicebus/resource-manager/Microsoft.ServiceBus/stable/2017-04-01/servicebus.json",
             "words": [
                 "Ruleproperties"
@@ -315,6 +321,12 @@
         },
         {
             "filename": "**/specification/keyvault/data-plane/Microsoft.KeyVault/preview/7.2/storage.json",
+            "words": [
+                "Regenerte"
+            ]
+        },
+        {
+            "filename": "**/specification/keyvault/data-plane/Microsoft.KeyVault/preview/7.3-preview/storage.json",
             "words": [
                 "Regenerte"
             ]
@@ -747,6 +759,14 @@
                 "phoneplans",
                 "pstn",
                 "unconfiguring"
+            ]
+        },
+        {
+            "filename": "**/specification/saas/resource-manager/Microsoft.SaaS/preview/2018-03-01-beta/saas.json",
+            "words": [
+                "checkmoderneligibility",
+                "saasresources",
+                "Moderneligibility"
             ]
         }
     ]

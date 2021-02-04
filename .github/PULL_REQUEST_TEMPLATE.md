@@ -23,7 +23,7 @@ Please ensure to add changelog with this PR by answering the following questions
       - [ ] No, no need to refresh for updates in this PR
 
 ### Contribution checklist:
-- [ ] I commit to follow the [Breaking Change Policy](http://aka.ms/bcforapi) of “no breaking changes
+- [ ] I commit to follow the [Breaking Change Policy](http://aka.ms/bcforapi) of "no breaking changes"
 - [ ] I have reviewed the [documentation](https://aka.ms/ameonboard) for the workflow.
 - [ ] [Validation tools](https://aka.ms/swaggertools) were run on swagger spec(s) and errors have all been fixed in this PR. [How to fix?](https://aka.ms/ci-fix)
 
@@ -48,6 +48,6 @@ If there are following updates in the PR, ensure to request an approval from API
 - [ ] Updating API in stable version with Breaking Change Validation errors
 - [ ] Updating API(s) in preview over 1 year
 
-To initiate an evaluation of the breaking change, create a new intake using the [template for breaking changes](https://msazure.visualstudio.com/One/_workitems/create/Scenario?templateId=d1c215ec-5d6a-4cb3-a193-95ddd0a1ba96&ownerId=85bb92fb-21fe-41ca-9309-47f2c5f57515). Addition details on the process and office hours are on the [Breaking change Wiki](https://dev.azure.com/msazure/AzureWiki/_wiki/wikis/AzureWiki.wiki/37684/Breaking-Changes).
+**Action**: to initiate an evaluation of the breaking change, create a new intake using the [template for breaking changes](https://aka.ms/Breakingchangetemplate). Addition details on the process and office hours are on the [Breaking change Wiki](https://dev.azure.com/msazure/AzureWiki/_wiki/wikis/AzureWiki.wiki/37684/Breaking-Changes).
 
 Please follow the link to find more details on [PR review process](https://aka.ms/SwaggerPRReview).
